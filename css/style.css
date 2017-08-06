@@ -1,0 +1,158 @@
+.banner-bg{
+    background-image: url(../images/slider_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+
+}
+.banner-pc{
+	    text-align: center;
+    transform: translateY(60px);
+}
+.banner-pc img{
+	
+}
+.banner-content{
+	text-align: center;
+	padding-top: 20px;
+
+}
+.content{}
+
+.btn-custom {
+    background: #2cc26b;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin-top: 30px;
+	margin-bottom: 30px;
+}
+.header{
+	
+}
+.menu{}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+.navbar-nav {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navbar-nav ul{
+	
+}
+.navbar-nav ul li{
+	
+}
+.navbar-nav ul li a{}
+.navbar-nav ul li a:hover{
+	
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #12e41a;
+    background-color: transparent;
+}
+
+.logo span {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #666;
+    font-weight: 600;
+    padding-left: 15px;
+    vertical-align: middle;
+}
+
+.social-icon li{
+	position: relative
+}
+.cursor{
+	position: absolute;
+    bottom: 0;
+    right: 10px;
+}
+
+.slider {
+    padding: 50px 0;
+    background: #efefef;
+}
+
+.slider-image{
+	position: relative;}
+
+    
+.arrow{position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+.blown{
+    background-color: #171515;
+    padding: 40px;
+}
+.blown h3{
+	
+	text-transform: uppercase;
+	color: white;
+}
+
+.find{
+	 display: flex;
+     align-items: center;
+     justify-content: center;
+     margin-top: 10px;   
+}
+
+.footer{
+	
+	background-color:#efe7e7;
+	text-align: center;
+	padding: 30px;
+}
+
+.footer p{
+	text-transform: uppercase;
+}
+
+.breadcrumb{
+	
+    float: right;
+    text-transform: uppercase;
+    color: #afa7a7;
+	background-color: transparent;
+}
+
+.breadcrumb > .active {
+    color: #0af36c;
+}
+
+.breadcrumb ol{
+	
+}
+
+.breadcrumb li {
+    color: rgba(31, 30, 30, 0.75);
+}
+
+.breadcrumb li:hover{
+	
+	 color: #0af36c;
+}
+
+/*
+
+@media (min-width: 768px)
+	
+.navbar-nav {
+    float: right;
+    margin: 0;
+}/*
+
+
